@@ -1,4 +1,5 @@
 # Luacrypt
+[Luacrypt](https://raw.githubusercontent.com/XENFLIX3R/Luacrypt/refs/heads/main/imgs/Luacrypt%20(1).png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/luacrypt/build.yml)
